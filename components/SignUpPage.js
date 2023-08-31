@@ -172,3 +172,5 @@ const stylesRand = StyleSheet.create({
     },
 });
 export default SignUpPage;
+
+//test2
